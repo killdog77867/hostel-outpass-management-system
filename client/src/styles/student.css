@@ -1,0 +1,8 @@
+/* Student theme: Bright blue */
+body {
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+  }
+  
+  button:hover {
+    transition: background-color 0.3s ease;
+  }
